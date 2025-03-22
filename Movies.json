@@ -1,0 +1,3260 @@
+[
+    {
+        "_id": "m001",
+        "title": "Inception",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "release_year": 2010,
+        "rating": 8.8,
+        "duration": 148,
+        "cast": [
+            "Morgan Freeman",
+            "Natalie Portman",
+            "Christian Bale"
+        ]
+    },
+    {
+        "_id": "m002",
+        "title": "The Dark Knight",
+        "genre": [
+            "Action",
+            "Crime"
+        ],
+        "release_year": 2008,
+        "rating": 9.0,
+        "duration": 152,
+        "cast": [
+            "Anne Hathaway",
+            "Chris Hemsworth",
+            "Jessica Chastain"
+        ]
+    },
+    {
+        "_id": "m003",
+        "title": "Avengers: Endgame",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2019,
+        "rating": 8.4,
+        "duration": 181,
+        "cast": [
+            "Morgan Freeman",
+            "Hugh Jackman",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "_id": "m004",
+        "title": "Titanic",
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "release_year": 1997,
+        "rating": 7.9,
+        "duration": 195,
+        "cast": [
+            "Chris Evans",
+            "Samuel L. Jackson",
+            "Brad Pitt"
+        ]
+    },
+    {
+        "_id": "m005",
+        "title": "The Shawshank Redemption",
+        "genre": [
+            "Drama"
+        ],
+        "release_year": 1994,
+        "rating": 9.3,
+        "duration": 142,
+        "cast": [
+            "Tom Hanks",
+            "Christian Bale",
+            "Keira Knightley"
+        ]
+    },
+    {
+        "_id": "m006",
+        "title": "Pulp Fiction",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "release_year": 1994,
+        "rating": 8.9,
+        "duration": 154,
+        "cast": [
+            "Matt Damon",
+            "Daniel Day-Lewis",
+            "Christian Bale"
+        ]
+    },
+    {
+        "_id": "m007",
+        "title": "The Matrix",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "release_year": 1999,
+        "rating": 8.7,
+        "duration": 136,
+        "cast": [
+            "Zendaya",
+            "Christian Bale",
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "_id": "m008",
+        "title": "Gladiator",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "release_year": 2000,
+        "rating": 8.5,
+        "duration": 155,
+        "cast": [
+            "Natalie Portman",
+            "Emily Blunt",
+            "Leonardo DiCaprio"
+        ]
+    },
+    {
+        "_id": "m009",
+        "title": "Forrest Gump",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "release_year": 1994,
+        "rating": 8.8,
+        "duration": 142,
+        "cast": [
+            "Emily Blunt",
+            "Hugh Jackman",
+            "Brad Pitt"
+        ]
+    },
+    {
+        "_id": "m010",
+        "title": "Star Wars: Episode IV - A New Hope",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 1977,
+        "rating": 8.6,
+        "duration": 121,
+        "cast": [
+            "Morgan Freeman",
+            "Joaquin Phoenix",
+            "Chris Hemsworth"
+        ]
+    },
+    {
+        "_id": "m011",
+        "title": "The Godfather",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "release_year": 1972,
+        "rating": 9.2,
+        "duration": 175,
+        "cast": [
+            "Morgan Freeman",
+            "Robert Downey Jr.",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "_id": "m012",
+        "title": "The Godfather: Part II",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "release_year": 1974,
+        "rating": 9.0,
+        "duration": 202,
+        "cast": [
+            "Chris Evans",
+            "Viola Davis",
+            "Samuel L. Jackson"
+        ]
+    },
+    {
+        "_id": "m013",
+        "title": "Jurassic Park",
+        "genre": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_year": 1993,
+        "rating": 8.1,
+        "duration": 127,
+        "cast": [
+            "Morgan Freeman",
+            "Christian Bale",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "_id": "m014",
+        "title": "Interstellar",
+        "genre": [
+            "Sci-Fi",
+            "Drama"
+        ],
+        "release_year": 2014,
+        "rating": 8.6,
+        "duration": 169,
+        "cast": [
+            "Tom Hanks",
+            "Angelina Jolie",
+            "Viola Davis"
+        ]
+    },
+    {
+        "_id": "m015",
+        "title": "The Lion King",
+        "genre": [
+            "Animation",
+            "Adventure"
+        ],
+        "release_year": 1994,
+        "rating": 8.5,
+        "duration": 88,
+        "cast": [
+            "Chris Hemsworth",
+            "Daniel Day-Lewis",
+            "Christian Bale"
+        ]
+    },
+    {
+        "_id": "m016",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "release_year": 2001,
+        "rating": 7.6,
+        "duration": 152,
+        "cast": [
+            "Jessica Chastain",
+            "Samuel L. Jackson",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "_id": "m017",
+        "title": "Frozen",
+        "genre": [
+            "Animation",
+            "Adventure"
+        ],
+        "release_year": 2013,
+        "rating": 7.4,
+        "duration": 102,
+        "cast": [
+            "Samuel L. Jackson",
+            "Natalie Portman",
+            "Daniel Day-Lewis"
+        ]
+    },
+    {
+        "_id": "m018",
+        "title": "Black Panther",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2018,
+        "rating": 7.3,
+        "duration": 134,
+        "cast": [
+            "Samuel L. Jackson",
+            "Tom Hanks",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "_id": "m019",
+        "title": "Spider-Man: No Way Home",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2021,
+        "rating": 8.3,
+        "duration": 148,
+        "cast": [
+            "Meryl Streep",
+            "Ryan Reynolds",
+            "Cate Blanchett"
+        ]
+    },
+    {
+        "_id": "m020",
+        "title": "Toy Story",
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "release_year": 1995,
+        "rating": 8.3,
+        "duration": 81,
+        "cast": [
+            "Jessica Chastain",
+            "Denzel Washington",
+            "Hugh Jackman"
+        ]
+    },
+    {
+        "_id": "m021",
+        "title": "Finding Nemo",
+        "genre": [
+            "Animation",
+            "Adventure"
+        ],
+        "release_year": 2003,
+        "rating": 8.1,
+        "duration": 100,
+        "cast": [
+            "Angelina Jolie",
+            "Keira Knightley",
+            "Leonardo DiCaprio"
+        ]
+    },
+    {
+        "_id": "m022",
+        "title": "Shrek",
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "release_year": 2001,
+        "rating": 7.9,
+        "duration": 90,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joaquin Phoenix",
+            "Daniel Day-Lewis"
+        ]
+    },
+    {
+        "_id": "m023",
+        "title": "The Avengers",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2012,
+        "rating": 8.0,
+        "duration": 143,
+        "cast": [
+            "Natalie Portman",
+            "Keira Knightley",
+            "Brad Pitt"
+        ]
+    },
+    {
+        "_id": "m024",
+        "title": "Iron Man",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2008,
+        "rating": 7.9,
+        "duration": 126,
+        "cast": [
+            "Joaquin Phoenix",
+            "Jessica Chastain",
+            "Daniel Day-Lewis"
+        ]
+    },
+    {
+        "_id": "m025",
+        "title": "The Hobbit: An Unexpected Journey",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "release_year": 2012,
+        "rating": 7.8,
+        "duration": 169,
+        "cast": [
+            "Matt Damon",
+            "Zendaya",
+            "Chris Hemsworth"
+        ]
+    },
+    {
+        "_id": "m026",
+        "title": "Coco",
+        "genre": [
+            "Animation",
+            "Adventure"
+        ],
+        "release_year": 2017,
+        "rating": 8.4,
+        "duration": 105,
+        "cast": [
+            "Christian Bale",
+            "Jessica Chastain",
+            "Meryl Streep"
+        ]
+    },
+    {
+        "_id": "m027",
+        "title": "Up",
+        "genre": [
+            "Animation",
+            "Adventure"
+        ],
+        "release_year": 2009,
+        "rating": 8.3,
+        "duration": 96,
+        "cast": [
+            "Robert Downey Jr.",
+            "Viola Davis",
+            "Jennifer Lawrence"
+        ]
+    },
+    {
+        "_id": "m028",
+        "title": "The Social Network",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 2010,
+        "rating": 7.7,
+        "duration": 120,
+        "cast": [
+            "Jessica Chastain",
+            "Jake Gyllenhaal",
+            "Jennifer Lawrence"
+        ]
+    },
+    {
+        "_id": "m029",
+        "title": "Parasite",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "release_year": 2019,
+        "rating": 8.6,
+        "duration": 132,
+        "cast": [
+            "Daniel Day-Lewis",
+            "Christian Bale",
+            "Chris Evans"
+        ]
+    },
+    {
+        "_id": "m030",
+        "title": "Whiplash",
+        "genre": [
+            "Drama",
+            "Music"
+        ],
+        "release_year": 2014,
+        "rating": 8.5,
+        "duration": 107,
+        "cast": [
+            "Robert Downey Jr.",
+            "Jessica Chastain",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "_id": "m031",
+        "title": "The Wolf of Wall Street",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 2013,
+        "rating": 8.2,
+        "duration": 180,
+        "cast": [
+            "Cate Blanchett",
+            "Brad Pitt",
+            "Jennifer Lawrence"
+        ]
+    },
+    {
+        "_id": "m032",
+        "title": "Inside Out",
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "release_year": 2015,
+        "rating": 8.1,
+        "duration": 95,
+        "cast": [
+            "Zendaya",
+            "Jessica Chastain",
+            "Chris Hemsworth"
+        ]
+    },
+    {
+        "_id": "m033",
+        "title": "Zootopia",
+        "genre": [
+            "Animation",
+            "Adventure"
+        ],
+        "release_year": 2016,
+        "rating": 8.0,
+        "duration": 108,
+        "cast": [
+            "Will Smith",
+            "Emma Stone",
+            "Brad Pitt"
+        ]
+    },
+    {
+        "_id": "m034",
+        "title": "Mad Max: Fury Road",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2015,
+        "rating": 8.1,
+        "duration": 120,
+        "cast": [
+            "Natalie Portman",
+            "Hugh Jackman",
+            "Cate Blanchett"
+        ]
+    },
+    {
+        "_id": "m035",
+        "title": "The Big Short",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 2015,
+        "rating": 7.8,
+        "duration": 130,
+        "cast": [
+            "Ryan Reynolds",
+            "Angelina Jolie",
+            "Cate Blanchett"
+        ]
+    },
+    {
+        "_id": "m036",
+        "title": "Django Unchained",
+        "genre": [
+            "Drama",
+            "Western"
+        ],
+        "release_year": 2012,
+        "rating": 8.4,
+        "duration": 165,
+        "cast": [
+            "Joaquin Phoenix",
+            "Chris Evans",
+            "Jessica Chastain"
+        ]
+    },
+    {
+        "_id": "m037",
+        "title": "Logan",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "release_year": 2017,
+        "rating": 8.1,
+        "duration": 137,
+        "cast": [
+            "Cate Blanchett",
+            "Jennifer Lawrence",
+            "Emily Blunt"
+        ]
+    },
+    {
+        "_id": "m038",
+        "title": "Soul",
+        "genre": [
+            "Animation",
+            "Adventure"
+        ],
+        "release_year": 2020,
+        "rating": 8.1,
+        "duration": 100,
+        "cast": [
+            "Angelina Jolie",
+            "Anne Hathaway",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "_id": "m039",
+        "title": "Ratatouille",
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "release_year": 2007,
+        "rating": 8.1,
+        "duration": 111,
+        "cast": [
+            "Emma Stone",
+            "Emily Blunt",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "_id": "m040",
+        "title": "The Incredibles",
+        "genre": [
+            "Animation",
+            "Action"
+        ],
+        "release_year": 2004,
+        "rating": 8.0,
+        "duration": 115,
+        "cast": [
+            "Jessica Chastain",
+            "Ryan Reynolds",
+            "Chris Evans"
+        ]
+    },
+    {
+        "_id": "m041",
+        "title": "A Quiet Place",
+        "genre": [
+            "Horror",
+            "Drama"
+        ],
+        "release_year": 2018,
+        "rating": 7.5,
+        "duration": 90,
+        "cast": [
+            "Meryl Streep",
+            "Mark Ruffalo",
+            "Will Smith"
+        ]
+    },
+    {
+        "_id": "m042",
+        "title": "Get Out",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "release_year": 2017,
+        "rating": 7.7,
+        "duration": 104,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Emma Stone",
+            "Christian Bale"
+        ]
+    },
+    {
+        "_id": "m043",
+        "title": "The Conjuring",
+        "genre": [
+            "Horror",
+            "Mystery"
+        ],
+        "release_year": 2013,
+        "rating": 7.5,
+        "duration": 112,
+        "cast": [
+            "Samuel L. Jackson",
+            "Matt Damon",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "_id": "m044",
+        "title": "Her",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "release_year": 2013,
+        "rating": 8.0,
+        "duration": 126,
+        "cast": [
+            "Hugh Jackman",
+            "Leonardo DiCaprio",
+            "Samuel L. Jackson"
+        ]
+    },
+    {
+        "_id": "m045",
+        "title": "La La Land",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "release_year": 2016,
+        "rating": 8.0,
+        "duration": 128,
+        "cast": [
+            "Tom Hanks",
+            "Sandra Bullock",
+            "Daniel Day-Lewis"
+        ]
+    },
+    {
+        "_id": "m046",
+        "title": "The Grand Budapest Hotel",
+        "genre": [
+            "Comedy",
+            "Adventure"
+        ],
+        "release_year": 2014,
+        "rating": 8.1,
+        "duration": 99,
+        "cast": [
+            "Chris Evans",
+            "Meryl Streep",
+            "Emily Blunt"
+        ]
+    },
+    {
+        "_id": "m047",
+        "title": "Joker",
+        "genre": [
+            "Drama",
+            "Crime"
+        ],
+        "release_year": 2019,
+        "rating": 8.4,
+        "duration": 122,
+        "cast": [
+            "Mark Ruffalo",
+            "Denzel Washington",
+            "Jake Gyllenhaal"
+        ]
+    },
+    {
+        "_id": "m048",
+        "title": "Blade Runner 2049",
+        "genre": [
+            "Sci-Fi",
+            "Drama"
+        ],
+        "release_year": 2017,
+        "rating": 8.0,
+        "duration": 163,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Morgan Freeman",
+            "Christian Bale"
+        ]
+    },
+    {
+        "_id": "m049",
+        "title": "The Irishman",
+        "genre": [
+            "Biography",
+            "Crime"
+        ],
+        "release_year": 2019,
+        "rating": 7.8,
+        "duration": 209,
+        "cast": [
+            "Samuel L. Jackson",
+            "Sandra Bullock",
+            "Natalie Portman"
+        ]
+    },
+    {
+        "_id": "m050",
+        "title": "Moonlight",
+        "genre": [
+            "Drama"
+        ],
+        "release_year": 2016,
+        "rating": 7.4,
+        "duration": 111,
+        "cast": [
+            "Will Smith",
+            "Mark Ruffalo",
+            "Meryl Streep"
+        ]
+    },
+    {
+        "_id": "m051",
+        "title": "12 Years a Slave",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 2013,
+        "rating": 8.1,
+        "duration": 134,
+        "cast": [
+            "Anne Hathaway",
+            "Cate Blanchett",
+            "Viola Davis"
+        ]
+    },
+    {
+        "_id": "m052",
+        "title": "The Revenant",
+        "genre": [
+            "Adventure",
+            "Drama"
+        ],
+        "release_year": 2015,
+        "rating": 8.0,
+        "duration": 156,
+        "cast": [
+            "Natalie Portman",
+            "Anne Hathaway",
+            "Joaquin Phoenix"
+        ]
+    },
+    {
+        "_id": "m053",
+        "title": "Slumdog Millionaire",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "release_year": 2008,
+        "rating": 8.0,
+        "duration": 120,
+        "cast": [
+            "Cate Blanchett",
+            "Scarlett Johansson",
+            "Matt Damon"
+        ]
+    },
+    {
+        "_id": "m054",
+        "title": "No Country for Old Men",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "release_year": 2007,
+        "rating": 8.2,
+        "duration": 122,
+        "cast": [
+            "Scarlett Johansson",
+            "Jennifer Lawrence",
+            "Emma Stone"
+        ]
+    },
+    {
+        "_id": "m055",
+        "title": "There Will Be Blood",
+        "genre": [
+            "Drama"
+        ],
+        "release_year": 2007,
+        "rating": 8.2,
+        "duration": 158,
+        "cast": [
+            "Chris Hemsworth",
+            "Jake Gyllenhaal",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "_id": "m056",
+        "title": "The Hurt Locker",
+        "genre": [
+            "Drama",
+            "War"
+        ],
+        "release_year": 2008,
+        "rating": 7.6,
+        "duration": 131,
+        "cast": [
+            "Sandra Bullock",
+            "Leonardo DiCaprio",
+            "Angelina Jolie"
+        ]
+    },
+    {
+        "_id": "m057",
+        "title": "Argo",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 2012,
+        "rating": 7.7,
+        "duration": 120,
+        "cast": [
+            "Emma Stone",
+            "Morgan Freeman",
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "_id": "m058",
+        "title": "Birdman",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "release_year": 2014,
+        "rating": 7.7,
+        "duration": 119,
+        "cast": [
+            "Natalie Portman",
+            "Zendaya",
+            "Chris Evans"
+        ]
+    },
+    {
+        "_id": "m059",
+        "title": "The King's Speech",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 2010,
+        "rating": 8.0,
+        "duration": 118,
+        "cast": [
+            "Chris Evans",
+            "Anne Hathaway",
+            "Denzel Washington"
+        ]
+    },
+    {
+        "_id": "m060",
+        "title": "The Artist",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "release_year": 2011,
+        "rating": 7.9,
+        "duration": 100,
+        "cast": [
+            "Anne Hathaway",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "_id": "m061",
+        "title": "Spotlight",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 2015,
+        "rating": 8.1,
+        "duration": 129,
+        "cast": [
+            "Christian Bale",
+            "Sandra Bullock",
+            "Angelina Jolie"
+        ]
+    },
+    {
+        "_id": "m062",
+        "title": "The Shape of Water",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "release_year": 2017,
+        "rating": 7.3,
+        "duration": 123,
+        "cast": [
+            "Jake Gyllenhaal",
+            "Chris Evans",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "_id": "m063",
+        "title": "Green Book",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 2018,
+        "rating": 8.2,
+        "duration": 130,
+        "cast": [
+            "Sandra Bullock",
+            "Chris Hemsworth",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "_id": "m064",
+        "title": "The Departed",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "release_year": 2006,
+        "rating": 8.5,
+        "duration": 151,
+        "cast": [
+            "Christian Bale",
+            "Cate Blanchett",
+            "Jessica Chastain"
+        ]
+    },
+    {
+        "_id": "m065",
+        "title": "The Pianist",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 2002,
+        "rating": 8.5,
+        "duration": 150,
+        "cast": [
+            "Robert Downey Jr.",
+            "Will Smith",
+            "Natalie Portman"
+        ]
+    },
+    {
+        "_id": "m066",
+        "title": "Million Dollar Baby",
+        "genre": [
+            "Drama",
+            "Sport"
+        ],
+        "release_year": 2004,
+        "rating": 8.1,
+        "duration": 132,
+        "cast": [
+            "Natalie Portman",
+            "Christian Bale",
+            "Jennifer Lawrence"
+        ]
+    },
+    {
+        "_id": "m067",
+        "title": "Schindler's List",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 1993,
+        "rating": 9.0,
+        "duration": 195,
+        "cast": [
+            "Sandra Bullock",
+            "Angelina Jolie",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "_id": "m068",
+        "title": "The Silence of the Lambs",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "release_year": 1991,
+        "rating": 8.6,
+        "duration": 118,
+        "cast": [
+            "Angelina Jolie",
+            "Brad Pitt",
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "_id": "m069",
+        "title": "Braveheart",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 1995,
+        "rating": 8.3,
+        "duration": 178,
+        "cast": [
+            "Daniel Day-Lewis",
+            "Gal Gadot",
+            "Chris Evans"
+        ]
+    },
+    {
+        "_id": "m070",
+        "title": "Goodfellas",
+        "genre": [
+            "Biography",
+            "Crime"
+        ],
+        "release_year": 1990,
+        "rating": 8.7,
+        "duration": 146,
+        "cast": [
+            "Gal Gadot",
+            "Ryan Reynolds",
+            "Zendaya"
+        ]
+    },
+    {
+        "_id": "m071",
+        "title": "American Beauty",
+        "genre": [
+            "Drama"
+        ],
+        "release_year": 1999,
+        "rating": 8.3,
+        "duration": 122,
+        "cast": [
+            "Morgan Freeman",
+            "Robert Downey Jr.",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "_id": "m072",
+        "title": "Fargo",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "release_year": 1996,
+        "rating": 8.1,
+        "duration": 98,
+        "cast": [
+            "Gal Gadot",
+            "Angelina Jolie",
+            "Chris Hemsworth"
+        ]
+    },
+    {
+        "_id": "m073",
+        "title": "The Truman Show",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "release_year": 1998,
+        "rating": 8.2,
+        "duration": 103,
+        "cast": [
+            "Natalie Portman",
+            "Sandra Bullock",
+            "Joaquin Phoenix"
+        ]
+    },
+    {
+        "_id": "m074",
+        "title": "Saving Private Ryan",
+        "genre": [
+            "Drama",
+            "War"
+        ],
+        "release_year": 1998,
+        "rating": 8.6,
+        "duration": 169,
+        "cast": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Jennifer Lawrence"
+        ]
+    },
+    {
+        "_id": "m075",
+        "title": "The Green Mile",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "release_year": 1999,
+        "rating": 8.6,
+        "duration": 189,
+        "cast": [
+            "Tom Hanks",
+            "Cate Blanchett",
+            "Chris Evans"
+        ]
+    },
+    {
+        "_id": "m076",
+        "title": "Se7en",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "release_year": 1995,
+        "rating": 8.6,
+        "duration": 127,
+        "cast": [
+            "Mark Ruffalo",
+            "Joaquin Phoenix",
+            "Gal Gadot"
+        ]
+    },
+    {
+        "_id": "m077",
+        "title": "The Usual Suspects",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "release_year": 1995,
+        "rating": 8.5,
+        "duration": 106,
+        "cast": [
+            "Samuel L. Jackson",
+            "Leonardo DiCaprio",
+            "Gal Gadot"
+        ]
+    },
+    {
+        "_id": "m078",
+        "title": "Fight Club",
+        "genre": [
+            "Drama"
+        ],
+        "release_year": 1999,
+        "rating": 8.8,
+        "duration": 139,
+        "cast": [
+            "Brad Pitt",
+            "Emma Stone",
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "_id": "m079",
+        "title": "The Sixth Sense",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "release_year": 1999,
+        "rating": 8.1,
+        "duration": 107,
+        "cast": [
+            "Will Smith",
+            "Matt Damon",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "_id": "m080",
+        "title": "Cast Away",
+        "genre": [
+            "Adventure",
+            "Drama"
+        ],
+        "release_year": 2000,
+        "rating": 7.8,
+        "duration": 143,
+        "cast": [
+            "Gal Gadot",
+            "Meryl Streep",
+            "Keira Knightley"
+        ]
+    },
+    {
+        "_id": "m081",
+        "title": "A Beautiful Mind",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "release_year": 2001,
+        "rating": 8.2,
+        "duration": 135,
+        "cast": [
+            "Tom Hanks",
+            "Chris Evans",
+            "Viola Davis"
+        ]
+    },
+    {
+        "_id": "m082",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "release_year": 2004,
+        "rating": 8.3,
+        "duration": 108,
+        "cast": [
+            "Keira Knightley",
+            "Angelina Jolie",
+            "Samuel L. Jackson"
+        ]
+    },
+    {
+        "_id": "m083",
+        "title": "Requiem for a Dream",
+        "genre": [
+            "Drama"
+        ],
+        "release_year": 2000,
+        "rating": 8.3,
+        "duration": 102,
+        "cast": [
+            "Jake Gyllenhaal",
+            "Jennifer Lawrence",
+            "Hugh Jackman"
+        ]
+    },
+    {
+        "_id": "m084",
+        "title": "The Prestige",
+        "genre": [
+            "Drama",
+            "Mystery"
+        ],
+        "release_year": 2006,
+        "rating": 8.5,
+        "duration": 130,
+        "cast": [
+            "Samuel L. Jackson",
+            "Tom Hanks",
+            "Viola Davis"
+        ]
+    },
+    {
+        "_id": "m085",
+        "title": "The Dark Knight Rises",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "release_year": 2012,
+        "rating": 8.4,
+        "duration": 164,
+        "cast": [
+            "Daniel Day-Lewis",
+            "Natalie Portman",
+            "Denzel Washington"
+        ]
+    },
+    {
+        "_id": "m086",
+        "title": "Deadpool",
+        "genre": [
+            "Action",
+            "Comedy"
+        ],
+        "release_year": 2016,
+        "rating": 8,
+        "cast": [
+            "Hugh Jackman",
+            "Will Smith",
+            "Jake Gyllenhaal"
+        ]
+    },
+    {
+        "_id": "m087",
+        "title": "Star Wars: Episode VII - The Force Awakens",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "release_year": 2015,
+        "rating": 7.8,
+        "duration": 138,
+        "cast": [
+            "Jennifer Lawrence",
+            "Chris Hemsworth",
+            "Gal Gadot"
+        ]
+    },
+    {
+        "_id": "m088",
+        "title": "The Avengers",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_year": 2012,
+        "rating": 8.0,
+        "duration": 143,
+        "cast": [
+            "Hugh Jackman",
+            "Emily Blunt",
+            "Tom Hanks"
+        ]
+    },
+    {
+        "_id": "m089",
+        "title": "Iron Man",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_year": 2008,
+        "rating": 7.9,
+        "duration": 126,
+        "cast": [
+            "Sandra Bullock",
+            "Joaquin Phoenix",
+            "Emma Stone"
+        ]
+    },
+    {
+        "_id": "m090",
+        "title": "Captain America: The Winter Soldier",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_year": 2014,
+        "rating": 7.8,
+        "duration": 136,
+        "cast": [
+            "Emily Blunt",
+            "Angelina Jolie",
+            "Chris Evans"
+        ]
+    },
+    {
+        "_id": "m091",
+        "title": "Spider-Man: Homecoming",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_year": 2017,
+        "rating": 7.4,
+        "duration": 133,
+        "cast": [
+            "Christian Bale",
+            "Scarlett Johansson",
+            "Gal Gadot"
+        ]
+    },
+    {
+        "_id": "m092",
+        "title": "Doctor Strange",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "release_year": 2016,
+        "rating": 7.5,
+        "duration": 115,
+        "cast": [
+            "Robert Downey Jr.",
+            "Jennifer Lawrence",
+            "Viola Davis"
+        ]
+    },
+    {
+        "_id": "m093",
+        "title": "Thor: Ragnarok",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2017,
+        "rating": 7.9,
+        "duration": 130,
+        "cast": [
+            "Will Smith",
+            "Emily Blunt",
+            "Leonardo DiCaprio"
+        ]
+    },
+    {
+        "_id": "m094",
+        "title": "Black Panther",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_year": 2018,
+        "rating": 7.3,
+        "duration": 134,
+        "cast": [
+            "Chris Hemsworth",
+            "Joaquin Phoenix",
+            "Emily Blunt"
+        ]
+    },
+    {
+        "_id": "m095",
+        "title": "Avengers: Endgame",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_year": 2019,
+        "rating": 8.4,
+        "duration": 181,
+        "cast": [
+            "Anne Hathaway",
+            "Emma Stone",
+            "Emily Blunt"
+        ]
+    },
+    {
+        "_id": "m096",
+        "title": "Avengers: Infinity War",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_year": 2018,
+        "rating": 8.5,
+        "duration": 149,
+        "cast": [
+            "Jennifer Lawrence",
+            "Samuel L. Jackson",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "_id": "m097",
+        "title": "Ant-Man",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2015,
+        "rating": 7.3,
+        "duration": 117,
+        "cast": [
+            "Scarlett Johansson",
+            "Keira Knightley",
+            "Tom Hanks"
+        ]
+    },
+    {
+        "_id": "m098",
+        "title": "Ant-Man and The Wasp",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_year": 2018,
+        "rating": 7.0,
+        "duration": 118,
+        "cast": [
+            "Chris Hemsworth",
+            "Hugh Jackman",
+            "Angelina Jolie"
+        ]
+    },
+    {
+        "_id": "m099",
+        "title": "Guardians of the Galaxy Vol. 2",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2017,
+        "rating": 7.6,
+        "duration": 136,
+        "cast": [
+            "Daniel Day-Lewis",
+            "Mark Ruffalo",
+            "Christian Bale"
+        ]
+    },
+    {
+        "_id": "m100",
+        "title": "Shazam!",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2019,
+        "rating": 7.0,
+        "duration": 132,
+        "cast": [
+            "Christian Bale",
+            "Samuel L. Jackson",
+            "Jennifer Lawrence"
+        ]
+    },
+    {
+        "_id": "m101",
+        "title": "Jurassic Park",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 1993,
+        "rating": 8.1,
+        "duration": 127,
+        "cast": [
+            "Zendaya",
+            "Robert Downey Jr.",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "_id": "m102",
+        "title": "Jaws",
+        "genre": [
+            "Adventure",
+            "Thriller"
+        ],
+        "release_year": 1975,
+        "rating": 8.0,
+        "duration": 124,
+        "cast": [
+            "Tom Hanks",
+            "Angelina Jolie",
+            "Jennifer Lawrence"
+        ]
+    },
+    {
+        "_id": "m103",
+        "title": "E.T. the Extra-Terrestrial",
+        "genre": [
+            "Adventure",
+            "Family"
+        ],
+        "release_year": 1982,
+        "rating": 7.8,
+        "duration": 115,
+        "cast": [
+            "Anne Hathaway",
+            "Mark Ruffalo",
+            "Emily Blunt"
+        ]
+    },
+    {
+        "_id": "m104",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "release_year": 2001,
+        "rating": 8.8,
+        "duration": 178,
+        "cast": [
+            "Gal Gadot",
+            "Natalie Portman",
+            "Emma Stone"
+        ]
+    },
+    {
+        "_id": "m105",
+        "title": "The Lord of the Rings: The Return of the King",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "release_year": 2003,
+        "rating": 8.9,
+        "duration": 201,
+        "cast": [
+            "Mark Ruffalo",
+            "Will Smith",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "_id": "m106",
+        "title": "The Lord of the Rings: The Two Towers",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "release_year": 2002,
+        "rating": 8.7,
+        "duration": 179,
+        "cast": [
+            "Christian Bale",
+            "Jennifer Lawrence",
+            "Daniel Day-Lewis"
+        ]
+    },
+    {
+        "_id": "m107",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "genre": [
+            "Adventure",
+            "Family"
+        ],
+        "release_year": 2001,
+        "rating": 7.6,
+        "duration": 152,
+        "cast": [
+            "Emma Stone",
+            "Christian Bale",
+            "Tom Hanks"
+        ]
+    },
+    {
+        "_id": "m108",
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "genre": [
+            "Adventure",
+            "Family"
+        ],
+        "release_year": 2005,
+        "rating": 6.9,
+        "duration": 143,
+        "cast": [
+            "Emma Stone",
+            "Angelina Jolie",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "_id": "m109",
+        "title": "Avatar",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2009,
+        "rating": 7.8,
+        "duration": 162,
+        "cast": [
+            "Samuel L. Jackson",
+            "Chris Hemsworth",
+            "Meryl Streep"
+        ]
+    },
+    {
+        "_id": "m110",
+        "title": "The Hunger Games",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2012,
+        "rating": 7.2,
+        "duration": 142,
+        "cast": [
+            "Meryl Streep",
+            "Will Smith",
+            "Jennifer Lawrence"
+        ]
+    },
+    {
+        "_id": "m111",
+        "title": "The Maze Runner",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2014,
+        "rating": 6.8,
+        "duration": 113,
+        "cast": [
+            "Robert Downey Jr.",
+            "Zendaya",
+            "Hugh Jackman"
+        ]
+    },
+    {
+        "_id": "m112",
+        "title": "Divergent",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2014,
+        "rating": 6.6,
+        "duration": 139,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Sandra Bullock",
+            "Will Smith"
+        ]
+    },
+    {
+        "_id": "m113",
+        "title": "Percy Jackson & the Olympians: The Lightning Thief",
+        "genre": [
+            "Adventure",
+            "Family"
+        ],
+        "release_year": 2010,
+        "rating": 5.9,
+        "duration": 118,
+        "cast": [
+            "Sandra Bullock",
+            "Emily Blunt",
+            "Leonardo DiCaprio"
+        ]
+    },
+    {
+        "_id": "m114",
+        "title": "The Giver",
+        "genre": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "release_year": 2014,
+        "rating": 6.4,
+        "duration": 97,
+        "cast": [
+            "Denzel Washington",
+            "Sandra Bullock",
+            "Leonardo DiCaprio"
+        ]
+    },
+    {
+        "_id": "m115",
+        "title": "Maze Runner: The Scorch Trials",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2015,
+        "rating": 6.3,
+        "duration": 132,
+        "cast": [
+            "Christian Bale",
+            "Gal Gadot",
+            "Denzel Washington"
+        ]
+    },
+    {
+        "_id": "m116",
+        "title": "The Twilight Saga: Eclipse",
+        "genre": [
+            "Drama",
+            "Fantasy"
+        ],
+        "release_year": 2010,
+        "rating": 5.0,
+        "duration": 124,
+        "cast": [
+            "Jake Gyllenhaal",
+            "Will Smith",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "_id": "m117",
+        "title": "The Twilight Saga: New Moon",
+        "genre": [
+            "Drama",
+            "Fantasy"
+        ],
+        "release_year": 2009,
+        "rating": 4.7,
+        "duration": 130,
+        "cast": [
+            "Brad Pitt",
+            "Denzel Washington",
+            "Daniel Day-Lewis"
+        ]
+    },
+    {
+        "_id": "m118",
+        "title": "Twilight",
+        "genre": [
+            "Drama",
+            "Fantasy"
+        ],
+        "release_year": 2008,
+        "rating": 5.2,
+        "duration": 122,
+        "cast": [
+            "Viola Davis",
+            "Cate Blanchett",
+            "Jennifer Lawrence"
+        ]
+    },
+    {
+        "_id": "m119",
+        "title": "The Secret Life of Walter Mitty",
+        "genre": [
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2013,
+        "rating": 7.3,
+        "duration": 114,
+        "cast": [
+            "Scarlett Johansson",
+            "Emily Blunt",
+            "Brad Pitt"
+        ]
+    },
+    {
+        "_id": "m120",
+        "title": "Life of Pi",
+        "genre": [
+            "Adventure",
+            "Drama"
+        ],
+        "release_year": 2012,
+        "rating": 7.9,
+        "duration": 127,
+        "cast": [
+            "Jake Gyllenhaal",
+            "Emma Stone",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "_id": "m121",
+        "title": "Cast Away",
+        "genre": [
+            "Adventure",
+            "Drama"
+        ],
+        "release_year": 2000,
+        "rating": 7.8,
+        "duration": 143,
+        "cast": [
+            "Jessica Chastain",
+            "Natalie Portman",
+            "Chris Evans"
+        ]
+    },
+    {
+        "_id": "m122",
+        "title": "The Martian",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "release_year": 2015,
+        "rating": 8.0,
+        "duration": 144,
+        "cast": [
+            "Hugh Jackman",
+            "Sandra Bullock",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "_id": "m123",
+        "title": "Interstellar",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "release_year": 2014,
+        "rating": 8.6,
+        "duration": 169,
+        "cast": [
+            "Anne Hathaway",
+            "Sandra Bullock",
+            "Leonardo DiCaprio"
+        ]
+    },
+    {
+        "_id": "m124",
+        "title": "Gravity",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "release_year": 2013,
+        "rating": 7.7,
+        "duration": 91,
+        "cast": [
+            "Samuel L. Jackson",
+            "Mark Ruffalo",
+            "Cate Blanchett"
+        ]
+    },
+    {
+        "_id": "m125",
+        "title": "The Revenant",
+        "genre": [
+            "Adventure",
+            "Drama"
+        ],
+        "release_year": 2015,
+        "rating": 8.0,
+        "duration": 156,
+        "cast": [
+            "Morgan Freeman",
+            "Meryl Streep",
+            "Chris Evans"
+        ]
+    },
+    {
+        "_id": "m126",
+        "title": "127 Hours",
+        "genre": [
+            "Adventure",
+            "Biography"
+        ],
+        "release_year": 2010,
+        "rating": 7.5,
+        "duration": 94,
+        "cast": [
+            "Viola Davis",
+            "Leonardo DiCaprio",
+            "Tom Hanks"
+        ]
+    },
+    {
+        "_id": "m127",
+        "title": "The Jungle Book",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Family"
+        ],
+        "release_year": 2016,
+        "rating": 7.4,
+        "duration": 106,
+        "cast": [
+            "Keira Knightley",
+            "Samuel L. Jackson",
+            "Hugh Jackman"
+        ]
+    },
+    {
+        "_id": "m128",
+        "title": "Mad Max: Fury Road",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2015,
+        "rating": 8.1,
+        "duration": 120,
+        "cast": [
+            "Cate Blanchett",
+            "Gal Gadot",
+            "Ryan Reynolds"
+        ]
+    },
+    {
+        "_id": "m129",
+        "title": "The Hobbit: An Unexpected Journey",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "release_year": 2012,
+        "rating": 7.8,
+        "duration": 169,
+        "cast": [
+            "Samuel L. Jackson",
+            "Anne Hathaway",
+            "Meryl Streep"
+        ]
+    },
+    {
+        "_id": "m130",
+        "title": "The Hobbit: The Desolation of Smaug",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "release_year": 2013,
+        "rating": 7.8,
+        "duration": 161,
+        "cast": [
+            "Denzel Washington",
+            "Ryan Reynolds",
+            "Viola Davis"
+        ]
+    },
+    {
+        "_id": "m131",
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "release_year": 2014,
+        "rating": 7.4,
+        "duration": 144,
+        "cast": [
+            "Sandra Bullock",
+            "Mark Ruffalo",
+            "Meryl Streep"
+        ]
+    },
+    {
+        "_id": "m132",
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2003,
+        "rating": 8.1,
+        "duration": 143,
+        "cast": [
+            "Tom Hanks",
+            "Mark Ruffalo",
+            "Matt Damon"
+        ]
+    },
+    {
+        "_id": "m133",
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2006,
+        "rating": 7.3,
+        "duration": 151,
+        "cast": [
+            "Hugh Jackman",
+            "Gal Gadot",
+            "Daniel Day-Lewis"
+        ]
+    },
+    {
+        "_id": "m134",
+        "title": "Pirates of the Caribbean: At World's End",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2007,
+        "rating": 7.1,
+        "duration": 169,
+        "cast": [
+            "Denzel Washington",
+            "Brad Pitt",
+            "Keira Knightley"
+        ]
+    },
+    {
+        "_id": "m135",
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2011,
+        "rating": 6.6,
+        "duration": 137,
+        "cast": [
+            "Matt Damon",
+            "Viola Davis",
+            "Sandra Bullock"
+        ]
+    },
+    {
+        "_id": "m136",
+        "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2017,
+        "rating": 6.5,
+        "duration": 129,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Brad Pitt",
+            "Meryl Streep"
+        ]
+    },
+    {
+        "_id": "m137",
+        "title": "Fantastic Beasts and Where to Find Them",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "release_year": 2016,
+        "rating": 7.3,
+        "duration": 132,
+        "cast": [
+            "Daniel Day-Lewis",
+            "Samuel L. Jackson",
+            "Will Smith"
+        ]
+    },
+    {
+        "_id": "m138",
+        "title": "Fantastic Beasts: The Crimes of Grindelwald",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "release_year": 2018,
+        "rating": 6.5,
+        "duration": 134,
+        "cast": [
+            "Cate Blanchett",
+            "Jennifer Lawrence",
+            "Jessica Chastain"
+        ]
+    },
+    {
+        "_id": "m139",
+        "title": "The Secret Life of Pets",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "release_year": 2016,
+        "rating": 6.5,
+        "duration": 87,
+        "cast": [
+            "Matt Damon",
+            "Zendaya",
+            "Chris Evans"
+        ]
+    },
+    {
+        "_id": "m140",
+        "title": "Zootopia",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2016,
+        "rating": 8.0,
+        "duration": 108,
+        "cast": [
+            "Samuel L. Jackson",
+            "Sandra Bullock",
+            "Christian Bale"
+        ]
+    },
+    {
+        "_id": "m141",
+        "title": "Moana",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2016,
+        "rating": 7.6,
+        "duration": 107,
+        "cast": [
+            "Denzel Washington",
+            "Zendaya",
+            "Christian Bale"
+        ]
+    },
+    {
+        "_id": "m142",
+        "title": "Frozen",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2013,
+        "rating": 7.4,
+        "duration": 102,
+        "cast": [
+            "Zendaya",
+            "Natalie Portman",
+            "Matt Damon"
+        ]
+    },
+    {
+        "_id": "m143",
+        "title": "Frozen II",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2019,
+        "rating": 6.8,
+        "duration": 103,
+        "cast": [
+            "Keira Knightley",
+            "Morgan Freeman",
+            "Samuel L. Jackson"
+        ]
+    },
+    {
+        "_id": "m144",
+        "title": "Tangled",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2010,
+        "rating": 7.7,
+        "duration": 100,
+        "cast": [
+            "Natalie Portman",
+            "Angelina Jolie",
+            "Will Smith"
+        ]
+    },
+    {
+        "_id": "m145",
+        "title": "How to Train Your Dragon",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2010,
+        "rating": 8.1,
+        "duration": 98,
+        "cast": [
+            "Brad Pitt",
+            "Tom Hanks",
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "_id": "m146",
+        "title": "How to Train Your Dragon 2",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2014,
+        "rating": 7.8,
+        "duration": 102,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Viola Davis",
+            "Cate Blanchett"
+        ]
+    },
+    {
+        "_id": "m147",
+        "title": "Kung Fu Panda",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2008,
+        "rating": 7.6,
+        "duration": 92,
+        "cast": [
+            "Keira Knightley",
+            "Christian Bale",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "_id": "m148",
+        "title": "Kung Fu Panda 2",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2011,
+        "rating": 7.2,
+        "duration": 91,
+        "cast": [
+            "Emma Stone",
+            "Hugh Jackman",
+            "Gal Gadot"
+        ]
+    },
+    {
+        "_id": "m149",
+        "title": "Kung Fu Panda 3",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2016,
+        "rating": 7.1,
+        "duration": 95,
+        "cast": [
+            "Zendaya",
+            "Angelina Jolie",
+            "Jake Gyllenhaal"
+        ]
+    },
+    {
+        "_id": "m150",
+        "title": "The Lego Movie",
+        "genre": [
+            "Animation",
+            "Action",
+            "Comedy"
+        ],
+        "release_year": 2014,
+        "rating": 7.7,
+        "duration": 100,
+        "cast": [
+            "Emily Blunt",
+            "Joaquin Phoenix",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "_id": "m151",
+        "title": "The Lego Batman Movie",
+        "genre": [
+            "Animation",
+            "Action",
+            "Comedy"
+        ],
+        "release_year": 2017,
+        "rating": 7.3,
+        "duration": 104,
+        "cast": [
+            "Keira Knightley",
+            "Angelina Jolie",
+            "Hugh Jackman"
+        ]
+    },
+    {
+        "_id": "m152",
+        "title": "The Incredibles",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2004,
+        "rating": 8.0,
+        "duration": 115,
+        "cast": [
+            "Jake Gyllenhaal",
+            "Denzel Washington",
+            "Gal Gadot"
+        ]
+    },
+    {
+        "_id": "m153",
+        "title": "The Incredibles 2",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2018,
+        "rating": 7.6,
+        "duration": 118,
+        "cast": [
+            "Matt Damon",
+            "Daniel Day-Lewis",
+            "Tom Hanks"
+        ]
+    },
+    {
+        "_id": "m154",
+        "title": "Shrek",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2001,
+        "rating": 7.9,
+        "duration": 90,
+        "cast": [
+            "Mark Ruffalo",
+            "Jennifer Lawrence",
+            "Zendaya"
+        ]
+    },
+    {
+        "_id": "m155",
+        "title": "Shrek 2",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2004,
+        "rating": 7.3,
+        "duration": 93,
+        "cast": [
+            "Brad Pitt",
+            "Anne Hathaway",
+            "Joaquin Phoenix"
+        ]
+    },
+    {
+        "_id": "m156",
+        "title": "Shrek the Third",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2007,
+        "rating": 6.1,
+        "duration": 93,
+        "cast": [
+            "Angelina Jolie",
+            "Emily Blunt",
+            "Denzel Washington"
+        ]
+    },
+    {
+        "_id": "m157",
+        "title": "Shrek Forever After",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2010,
+        "rating": 6.3,
+        "duration": 93,
+        "cast": [
+            "Christian Bale",
+            "Chris Evans",
+            "Emma Stone"
+        ]
+    },
+    {
+        "_id": "m158",
+        "title": "Puss in Boots",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2011,
+        "rating": 6.6,
+        "duration": 90,
+        "cast": [
+            "Mark Ruffalo",
+            "Tom Hanks",
+            "Jake Gyllenhaal"
+        ]
+    },
+    {
+        "_id": "m159",
+        "title": "Finding Nemo",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2003,
+        "rating": 8.1,
+        "duration": 100,
+        "cast": [
+            "Angelina Jolie",
+            "Chris Hemsworth",
+            "Leonardo DiCaprio"
+        ]
+    },
+    {
+        "_id": "m160",
+        "title": "Finding Dory",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2016,
+        "rating": 7.3,
+        "duration": 97,
+        "cast": [
+            "Morgan Freeman",
+            "Natalie Portman",
+            "Samuel L. Jackson"
+        ]
+    },
+    {
+        "_id": "m161",
+        "title": "Toy Story",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 1995,
+        "rating": 8.3,
+        "duration": 81,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Chris Evans",
+            "Emily Blunt"
+        ]
+    },
+    {
+        "_id": "m162",
+        "title": "Toy Story 2",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 1999,
+        "rating": 7.9,
+        "duration": 92,
+        "cast": [
+            "Jake Gyllenhaal",
+            "Emily Blunt",
+            "Chris Hemsworth"
+        ]
+    },
+    {
+        "_id": "m163",
+        "title": "Toy Story 3",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2010,
+        "rating": 8.3,
+        "duration": 103,
+        "cast": [
+            "Emma Stone",
+            "Morgan Freeman",
+            "Keira Knightley"
+        ]
+    },
+    {
+        "_id": "m164",
+        "title": "Toy Story 4",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2019,
+        "rating": 7.7,
+        "duration": 100,
+        "cast": [
+            "Tom Hanks",
+            "Morgan Freeman",
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "_id": "m165",
+        "title": "Monsters, Inc.",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2001,
+        "rating": 8.1,
+        "duration": 92,
+        "cast": [
+            "Morgan Freeman",
+            "Gal Gadot",
+            "Cate Blanchett"
+        ]
+    },
+    {
+        "_id": "m166",
+        "title": "Monsters University",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2013,
+        "rating": 7.2,
+        "duration": 104,
+        "cast": [
+            "Will Smith",
+            "Sandra Bullock",
+            "Natalie Portman"
+        ]
+    },
+    {
+        "_id": "m167",
+        "title": "Inside Out",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2015,
+        "rating": 8.1,
+        "duration": 95,
+        "cast": [
+            "Daniel Day-Lewis",
+            "Matt Damon",
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "_id": "m168",
+        "title": "Coco",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2017,
+        "rating": 8.4,
+        "duration": 105,
+        "cast": [
+            "Cate Blanchett",
+            "Hugh Jackman",
+            "Angelina Jolie"
+        ]
+    },
+    {
+        "_id": "m169",
+        "title": "The Good Dinosaur",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2015,
+        "rating": 6.7,
+        "duration": 93,
+        "cast": [
+            "Robert Downey Jr.",
+            "Daniel Day-Lewis",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "_id": "m170",
+        "title": "Ratatouille",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2007,
+        "rating": 8.1,
+        "duration": 111,
+        "cast": [
+            "Natalie Portman",
+            "Viola Davis",
+            "Hugh Jackman"
+        ]
+    },
+    {
+        "_id": "m171",
+        "title": "Wall-E",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "release_year": 2008,
+        "rating": 8.4,
+        "duration": 98,
+        "cast": [
+            "Zendaya",
+            "Natalie Portman",
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "_id": "m172",
+        "title": "Up",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2009,
+        "rating": 8.2,
+        "duration": 96,
+        "cast": [
+            "Cate Blanchett",
+            "Scarlett Johansson",
+            "Christian Bale"
+        ]
+    },
+    {
+        "_id": "m173",
+        "title": "Big Hero 6",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2014,
+        "rating": 7.8,
+        "duration": 102,
+        "cast": [
+            "Christian Bale",
+            "Viola Davis",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "_id": "m174",
+        "title": "Wreck-It Ralph",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2012,
+        "rating": 7.7,
+        "duration": 101,
+        "cast": [
+            "Jessica Chastain",
+            "Viola Davis",
+            "Daniel Day-Lewis"
+        ]
+    },
+    {
+        "_id": "m175",
+        "title": "Ralph Breaks the Internet",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2018,
+        "rating": 7.0,
+        "duration": 112,
+        "cast": [
+            "Chris Evans",
+            "Jessica Chastain",
+            "Samuel L. Jackson"
+        ]
+    },
+    {
+        "_id": "m176",
+        "title": "The Lion King",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "release_year": 1994,
+        "rating": 8.5,
+        "duration": 88,
+        "cast": [
+            "Jessica Chastain",
+            "Samuel L. Jackson",
+            "Hugh Jackman"
+        ]
+    },
+    {
+        "_id": "m177",
+        "title": "The Lion King (2019)",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "release_year": 2019,
+        "rating": 6.8,
+        "duration": 118,
+        "cast": [
+            "Mark Ruffalo",
+            "Zendaya",
+            "Will Smith"
+        ]
+    },
+    {
+        "_id": "m178",
+        "title": "Aladdin",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 1992,
+        "rating": 8.0,
+        "duration": 90,
+        "cast": [
+            "Morgan Freeman",
+            "Viola Davis",
+            "Daniel Day-Lewis"
+        ]
+    },
+    {
+        "_id": "m179",
+        "title": "Aladdin (2019)",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "release_year": 2019,
+        "rating": 6.9,
+        "duration": 128,
+        "cast": [
+            "Zendaya",
+            "Meryl Streep",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "_id": "m180",
+        "title": "Mulan",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 1998,
+        "rating": 7.6,
+        "duration": 88,
+        "cast": [
+            "Chris Evans",
+            "Scarlett Johansson",
+            "Sandra Bullock"
+        ]
+    },
+    {
+        "_id": "m181",
+        "title": "Mulan (2020)",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "release_year": 2020,
+        "rating": 5.7,
+        "duration": 115,
+        "cast": [
+            "Keira Knightley",
+            "Robert Downey Jr.",
+            "Tom Hanks"
+        ]
+    },
+    {
+        "_id": "m182",
+        "title": "Beauty and the Beast",
+        "genre": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "release_year": 1991,
+        "rating": 8.0,
+        "duration": 84,
+        "cast": [
+            "Samuel L. Jackson",
+            "Gal Gadot",
+            "Hugh Jackman"
+        ]
+    },
+    {
+        "_id": "m183",
+        "title": "Beauty and the Beast (2017)",
+        "genre": [
+            "Family",
+            "Fantasy",
+            "Musical"
+        ],
+        "release_year": 2017,
+        "rating": 7.1,
+        "duration": 129,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Cate Blanchett",
+            "Tom Hanks"
+        ]
+    },
+    {
+        "_id": "m184",
+        "title": "Trolls",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2016,
+        "rating": 6.5,
+        "duration": 92,
+        "cast": [
+            "Chris Evans",
+            "Leonardo DiCaprio",
+            "Chris Hemsworth"
+        ]
+    },
+    {
+        "_id": "m185",
+        "title": "The Croods",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2013,
+        "rating": 7.2,
+        "duration": 98,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Jake Gyllenhaal",
+            "Emma Stone"
+        ]
+    },
+    {
+        "_id": "m186",
+        "title": "The Croods: A New Age",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2020,
+        "rating": 6.9,
+        "duration": 95,
+        "cast": [
+            "Daniel Day-Lewis",
+            "Jennifer Lawrence",
+            "Will Smith"
+        ]
+    },
+    {
+        "_id": "m187",
+        "title": "Brave",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2012,
+        "rating": 7.1,
+        "duration": 93,
+        "cast": [
+            "Jake Gyllenhaal",
+            "Chris Evans",
+            "Daniel Day-Lewis"
+        ]
+    },
+    {
+        "_id": "m188",
+        "title": "Frozen",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2013,
+        "rating": 7.4,
+        "duration": 102,
+        "cast": [
+            "Sandra Bullock",
+            "Zendaya",
+            "Hugh Jackman"
+        ]
+    },
+    {
+        "_id": "m189",
+        "title": "Frozen II",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2019,
+        "rating": 6.8,
+        "duration": 103,
+        "cast": [
+            "Natalie Portman",
+            "Joaquin Phoenix",
+            "Will Smith"
+        ]
+    },
+    {
+        "_id": "m190",
+        "title": "The Incredibles",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2004,
+        "rating": 8.0,
+        "duration": 115,
+        "cast": [
+            "Joaquin Phoenix",
+            "Viola Davis",
+            "Sandra Bullock"
+        ]
+    },
+    {
+        "_id": "m191",
+        "title": "Incredibles 2",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2018,
+        "rating": 7.6,
+        "duration": 118,
+        "cast": [
+            "Robert Downey Jr.",
+            "Jessica Chastain",
+            "Joaquin Phoenix"
+        ]
+    },
+    {
+        "_id": "m192",
+        "title": "The Secret Life of Pets",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2016,
+        "rating": 6.5,
+        "duration": 87,
+        "cast": [
+            "Emily Blunt",
+            "Anne Hathaway",
+            "Zendaya"
+        ]
+    },
+    {
+        "_id": "m193",
+        "title": "The Secret Life of Pets 2",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2019,
+        "rating": 6.4,
+        "duration": 86,
+        "cast": [
+            "Joaquin Phoenix",
+            "Brad Pitt",
+            "Cate Blanchett"
+        ]
+    },
+    {
+        "_id": "m194",
+        "title": "Despicable Me",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2010,
+        "rating": 7.6,
+        "duration": 95,
+        "cast": [
+            "Mark Ruffalo",
+            "Robert Downey Jr.",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "_id": "m195",
+        "title": "Despicable Me 2",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2013,
+        "rating": 7.3,
+        "duration": 98,
+        "cast": [
+            "Jessica Chastain",
+            "Cate Blanchett",
+            "Emma Stone"
+        ]
+    },
+    {
+        "_id": "m196",
+        "title": "Despicable Me 3",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2017,
+        "rating": 6.3,
+        "duration": 90,
+        "cast": [
+            "Morgan Freeman",
+            "Tom Hanks",
+            "Emma Stone"
+        ]
+    },
+    {
+        "_id": "m197",
+        "title": "Minions",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2015,
+        "rating": 6.4,
+        "duration": 91,
+        "cast": [
+            "Chris Hemsworth",
+            "Cate Blanchett",
+            "Gal Gadot"
+        ]
+    },
+    {
+        "_id": "m198",
+        "title": "Minions: The Rise of Gru",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "release_year": 2022,
+        "rating": 6.6,
+        "duration": 90,
+        "cast": [
+            "Scarlett Johansson",
+            "Jessica Chastain",
+            "Leonardo DiCaprio"
+        ]
+    },
+    {
+        "_id": "m199",
+        "title": "Kung Fu Panda",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "release_year": 2008,
+        "rating": 7.6,
+        "duration": 92,
+        "cast": [
+            "Leonardo DiCaprio",
+            "Christian Bale",
+            "Natalie Portman"
+        ]
+    }
+]

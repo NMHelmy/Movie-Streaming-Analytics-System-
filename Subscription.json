@@ -1,0 +1,702 @@
+[
+    {
+      "_id": "s001",
+      "user_id": "u1",
+      "movie_id": "m129",
+      "subscription_date": "2025-02-09",
+      "expiry_date": "2025-12-28"
+    },
+    {
+      "_id": "s002",
+      "user_id": "u1",
+      "movie_id": "m69",
+      "subscription_date": "2025-02-09",
+      "expiry_date": "2025-09-27"
+    },
+    {
+      "_id": "s003",
+      "user_id": "u1",
+      "movie_id": "m198",
+      "subscription_date": "2025-02-09",
+      "expiry_date": "2025-12-13"
+    },
+    {
+      "_id": "s004",
+      "user_id": "u1",
+      "movie_id": "m110",
+      "subscription_date": "2025-02-09",
+      "expiry_date": "2025-09-13"
+    },
+    {
+      "_id": "s005",
+      "user_id": "u1",
+      "movie_id": "m146",
+      "subscription_date": "2025-02-09",
+      "expiry_date": "2025-11-08"
+    },
+    {
+      "_id": "s006",
+      "user_id": "u2",
+      "movie_id": "m191",
+      "subscription_date": "2025-12-28",
+      "expiry_date": "2026-12-24"
+    },
+    {
+      "_id": "s007",
+      "user_id": "u2",
+      "movie_id": "m44",
+      "subscription_date": "2025-12-28",
+      "expiry_date": "2026-08-03"
+    },
+    {
+      "_id": "s008",
+      "user_id": "u2",
+      "movie_id": "m111",
+      "subscription_date": "2025-12-28",
+      "expiry_date": "2026-11-16"
+    },
+    {
+      "_id": "s009",
+      "user_id": "u2",
+      "movie_id": "m140",
+      "subscription_date": "2025-12-28",
+      "expiry_date": "2026-11-22"
+    },
+    {
+      "_id": "s010",
+      "user_id": "u3",
+      "movie_id": "m61",
+      "subscription_date": "2025-08-04",
+      "expiry_date": "2026-03-18"
+    },
+    {
+      "_id": "s011",
+      "user_id": "u3",
+      "movie_id": "m110",
+      "subscription_date": "2025-08-04",
+      "expiry_date": "2026-07-18"
+    },
+    {
+      "_id": "s012",
+      "user_id": "u3",
+      "movie_id": "m39",
+      "subscription_date": "2025-08-04",
+      "expiry_date": "2026-02-21"
+    },
+    {
+      "_id": "s013",
+      "user_id": "u3",
+      "movie_id": "m67",
+      "subscription_date": "2025-08-04",
+      "expiry_date": "2026-03-05"
+    },
+    {
+      "_id": "s014",
+      "user_id": "u3",
+      "movie_id": "m10",
+      "subscription_date": "2025-08-04",
+      "expiry_date": "2026-03-23"
+    },
+    {
+      "_id": "s015",
+      "user_id": "u4",
+      "movie_id": "m180",
+      "subscription_date": "2025-01-20",
+      "expiry_date": "2025-11-03"
+    },
+    {
+      "_id": "s016",
+      "user_id": "u4",
+      "movie_id": "m72",
+      "subscription_date": "2025-01-20",
+      "expiry_date": "2025-11-14"
+    },
+    {
+      "_id": "s017",
+      "user_id": "u4",
+      "movie_id": "m43",
+      "subscription_date": "2025-01-20",
+      "expiry_date": "2026-01-04"
+    },
+    {
+      "_id": "s018",
+      "user_id": "u4",
+      "movie_id": "m96",
+      "subscription_date": "2025-01-20",
+      "expiry_date": "2026-01-05"
+    },
+    {
+      "_id": "s019",
+      "user_id": "u4",
+      "movie_id": "m178",
+      "subscription_date": "2025-01-20",
+      "expiry_date": "2025-11-15"
+    },
+    {
+      "_id": "s020",
+      "user_id": "u5",
+      "movie_id": "m150",
+      "subscription_date": "2025-02-02",
+      "expiry_date": "2025-10-13"
+    },
+    {
+      "_id": "s021",
+      "user_id": "u5",
+      "movie_id": "m84",
+      "subscription_date": "2025-02-02",
+      "expiry_date": "2025-10-19"
+    },
+    {
+      "_id": "s022",
+      "user_id": "u6",
+      "movie_id": "m63",
+      "subscription_date": "2025-05-23",
+      "expiry_date": "2026-02-01"
+    },
+    {
+      "_id": "s023",
+      "user_id": "u7",
+      "movie_id": "m77",
+      "subscription_date": "2025-02-21",
+      "expiry_date": "2025-12-09"
+    },
+    {
+      "_id": "s024",
+      "user_id": "u7",
+      "movie_id": "m155",
+      "subscription_date": "2025-02-21",
+      "expiry_date": "2026-02-09"
+    },
+    {
+      "_id": "s025",
+      "user_id": "u7",
+      "movie_id": "m113",
+      "subscription_date": "2025-02-21",
+      "expiry_date": "2025-09-18"
+    },
+    {
+      "_id": "s026",
+      "user_id": "u8",
+      "movie_id": "m34",
+      "subscription_date": "2025-08-28",
+      "expiry_date": "2026-04-21"
+    },
+    {
+      "_id": "s027",
+      "user_id": "u8",
+      "movie_id": "m54",
+      "subscription_date": "2025-08-28",
+      "expiry_date": "2026-07-07"
+    },
+    {
+      "_id": "s028",
+      "user_id": "u8",
+      "movie_id": "m199",
+      "subscription_date": "2025-08-28",
+      "expiry_date": "2026-03-01"
+    },
+    {
+      "_id": "s029",
+      "user_id": "u9",
+      "movie_id": "m158",
+      "subscription_date": "2025-03-28",
+      "expiry_date": "2025-11-29"
+    },
+    {
+      "_id": "s030",
+      "user_id": "u9",
+      "movie_id": "m104",
+      "subscription_date": "2025-03-28",
+      "expiry_date": "2025-10-17"
+    },
+    {
+      "_id": "s031",
+      "user_id": "u9",
+      "movie_id": "m31",
+      "subscription_date": "2025-03-28",
+      "expiry_date": "2026-01-20"
+    },
+    {
+      "_id": "s032",
+      "user_id": "u9",
+      "movie_id": "m108",
+      "subscription_date": "2025-03-28",
+      "expiry_date": "2025-11-18"
+    },
+    {
+      "_id": "s033",
+      "user_id": "u9",
+      "movie_id": "m77",
+      "subscription_date": "2025-03-28",
+      "expiry_date": "2025-11-16"
+    },
+    {
+      "_id": "s034",
+      "user_id": "u10",
+      "movie_id": "m64",
+      "subscription_date": "2025-01-16",
+      "expiry_date": "2025-11-27"
+    },
+    {
+      "_id": "s035",
+      "user_id": "u11",
+      "movie_id": "m151",
+      "subscription_date": "2025-01-17",
+      "expiry_date": "2025-11-26"
+    },
+    {
+      "_id": "s036",
+      "user_id": "u11",
+      "movie_id": "m81",
+      "subscription_date": "2025-01-17",
+      "expiry_date": "2025-10-16"
+    },
+    {
+      "_id": "s037",
+      "user_id": "u11",
+      "movie_id": "m129",
+      "subscription_date": "2025-01-17",
+      "expiry_date": "2025-09-21"
+    },
+    {
+      "_id": "s038",
+      "user_id": "u11",
+      "movie_id": "m126",
+      "subscription_date": "2025-01-17",
+      "expiry_date": "2025-12-18"
+    },
+    {
+      "_id": "s039",
+      "user_id": "u12",
+      "movie_id": "m155",
+      "subscription_date": "2025-03-17",
+      "expiry_date": "2026-02-16"
+    },
+    {
+      "_id": "s040",
+      "user_id": "u12",
+      "movie_id": "m69",
+      "subscription_date": "2025-03-17",
+      "expiry_date": "2025-11-28"
+    },
+    {
+      "_id": "s041",
+      "user_id": "u12",
+      "movie_id": "m194",
+      "subscription_date": "2025-03-17",
+      "expiry_date": "2025-09-24"
+    },
+    {
+      "_id": "s042",
+      "user_id": "u12",
+      "movie_id": "m34",
+      "subscription_date": "2025-03-17",
+      "expiry_date": "2025-09-28"
+    },
+    {
+      "_id": "s043",
+      "user_id": "u13",
+      "movie_id": "m112",
+      "subscription_date": "2025-08-15",
+      "expiry_date": "2026-04-23"
+    },
+    {
+      "_id": "s044",
+      "user_id": "u13",
+      "movie_id": "m50",
+      "subscription_date": "2025-08-15",
+      "expiry_date": "2026-05-31"
+    },
+    {
+      "_id": "s045",
+      "user_id": "u13",
+      "movie_id": "m45",
+      "subscription_date": "2025-08-15",
+      "expiry_date": "2026-04-12"
+    },
+    {
+      "_id": "s046",
+      "user_id": "u13",
+      "movie_id": "m42",
+      "subscription_date": "2025-08-15",
+      "expiry_date": "2026-07-23"
+    },
+    {
+      "_id": "s047",
+      "user_id": "u13",
+      "movie_id": "m103",
+      "subscription_date": "2025-08-15",
+      "expiry_date": "2026-02-20"
+    },
+    {
+      "_id": "s048",
+      "user_id": "u14",
+      "movie_id": "m189",
+      "subscription_date": "2025-10-08",
+      "expiry_date": "2026-06-25"
+    },
+    {
+      "_id": "s049",
+      "user_id": "u14",
+      "movie_id": "m179",
+      "subscription_date": "2025-10-08",
+      "expiry_date": "2026-09-23"
+    },
+    {
+      "_id": "s050",
+      "user_id": "u14",
+      "movie_id": "m78",
+      "subscription_date": "2025-10-08",
+      "expiry_date": "2026-06-13"
+    },
+    {
+      "_id": "s051",
+      "user_id": "u14",
+      "movie_id": "m63",
+      "subscription_date": "2025-10-08",
+      "expiry_date": "2026-06-05"
+    },
+    {
+      "_id": "s052",
+      "user_id": "u15",
+      "movie_id": "m160",
+      "subscription_date": "2025-10-03",
+      "expiry_date": "2026-08-28"
+    },
+    {
+      "_id": "s053",
+      "user_id": "u15",
+      "movie_id": "m177",
+      "subscription_date": "2025-10-03",
+      "expiry_date": "2026-04-18"
+    },
+    {
+      "_id": "s054",
+      "user_id": "u15",
+      "movie_id": "m129",
+      "subscription_date": "2025-10-03",
+      "expiry_date": "2026-05-20"
+    },
+    {
+      "_id": "s055",
+      "user_id": "u16",
+      "movie_id": "m134",
+      "subscription_date": "2025-06-28",
+      "expiry_date": "2026-03-14"
+    },
+    {
+      "_id": "s056",
+      "user_id": "u17",
+      "movie_id": "m116",
+      "subscription_date": "2025-06-25",
+      "expiry_date": "2026-04-09"
+    },
+    {
+      "_id": "s057",
+      "user_id": "u18",
+      "movie_id": "m19",
+      "subscription_date": "2025-07-09",
+      "expiry_date": "2026-02-01"
+    },
+    {
+      "_id": "s058",
+      "user_id": "u18",
+      "movie_id": "m159",
+      "subscription_date": "2025-07-09",
+      "expiry_date": "2026-02-08"
+    },
+    {
+      "_id": "s059",
+      "user_id": "u18",
+      "movie_id": "m101",
+      "subscription_date": "2025-07-09",
+      "expiry_date": "2026-02-22"
+    },
+    {
+      "_id": "s060",
+      "user_id": "u19",
+      "movie_id": "m147",
+      "subscription_date": "2025-10-26",
+      "expiry_date": "2026-08-31"
+    },
+    {
+      "_id": "s061",
+      "user_id": "u19",
+      "movie_id": "m50",
+      "subscription_date": "2025-10-26",
+      "expiry_date": "2026-08-23"
+    },
+    {
+      "_id": "s062",
+      "user_id": "u20",
+      "movie_id": "m119",
+      "subscription_date": "2025-05-04",
+      "expiry_date": "2026-02-02"
+    },
+    {
+      "_id": "s063",
+      "user_id": "u21",
+      "movie_id": "m109",
+      "subscription_date": "2025-09-17",
+      "expiry_date": "2026-09-02"
+    },
+    {
+      "_id": "s064",
+      "user_id": "u21",
+      "movie_id": "m199",
+      "subscription_date": "2025-09-17",
+      "expiry_date": "2026-08-22"
+    },
+    {
+      "_id": "s065",
+      "user_id": "u21",
+      "movie_id": "m123",
+      "subscription_date": "2025-09-17",
+      "expiry_date": "2026-04-06"
+    },
+    {
+      "_id": "s066",
+      "user_id": "u21",
+      "movie_id": "m199",
+      "subscription_date": "2025-09-17",
+      "expiry_date": "2026-08-17"
+    },
+    {
+      "_id": "s067",
+      "user_id": "u22",
+      "movie_id": "m37",
+      "subscription_date": "2025-01-24",
+      "expiry_date": "2025-11-20"
+    },
+    {
+      "_id": "s068",
+      "user_id": "u23",
+      "movie_id": "m131",
+      "subscription_date": "2025-07-02",
+      "expiry_date": "2026-01-11"
+    },
+    {
+      "_id": "s069",
+      "user_id": "u23",
+      "movie_id": "m115",
+      "subscription_date": "2025-07-02",
+      "expiry_date": "2026-02-11"
+    },
+    {
+      "_id": "s070",
+      "user_id": "u23",
+      "movie_id": "m50",
+      "subscription_date": "2025-07-02",
+      "expiry_date": "2026-04-12"
+    },
+    {
+      "_id": "s071",
+      "user_id": "u23",
+      "movie_id": "m29",
+      "subscription_date": "2025-07-02",
+      "expiry_date": "2026-05-06"
+    },
+    {
+      "_id": "s072",
+      "user_id": "u23",
+      "movie_id": "m196",
+      "subscription_date": "2025-07-02",
+      "expiry_date": "2026-06-04"
+    },
+    {
+      "_id": "s073",
+      "user_id": "u24",
+      "movie_id": "m179",
+      "subscription_date": "2025-10-06",
+      "expiry_date": "2026-04-13"
+    },
+    {
+      "_id": "s074",
+      "user_id": "u24",
+      "movie_id": "m152",
+      "subscription_date": "2025-10-06",
+      "expiry_date": "2026-09-15"
+    },
+    {
+      "_id": "s075",
+      "user_id": "u24",
+      "movie_id": "m68",
+      "subscription_date": "2025-10-06",
+      "expiry_date": "2026-05-01"
+    },
+    {
+      "_id": "s076",
+      "user_id": "u25",
+      "movie_id": "m11",
+      "subscription_date": "2025-03-17",
+      "expiry_date": "2026-03-08"
+    },
+    {
+      "_id": "s077",
+      "user_id": "u25",
+      "movie_id": "m62",
+      "subscription_date": "2025-03-17",
+      "expiry_date": "2025-09-13"
+    },
+    {
+      "_id": "s078",
+      "user_id": "u25",
+      "movie_id": "m21",
+      "subscription_date": "2025-03-17",
+      "expiry_date": "2025-12-29"
+    },
+    {
+      "_id": "s079",
+      "user_id": "u25",
+      "movie_id": "m53",
+      "subscription_date": "2025-03-17",
+      "expiry_date": "2025-12-20"
+    },
+    {
+      "_id": "s080",
+      "user_id": "u26",
+      "movie_id": "m34",
+      "subscription_date": "2025-08-15",
+      "expiry_date": "2026-04-25"
+    },
+    {
+      "_id": "s081",
+      "user_id": "u26",
+      "movie_id": "m38",
+      "subscription_date": "2025-08-15",
+      "expiry_date": "2026-03-28"
+    },
+    {
+      "_id": "s082",
+      "user_id": "u26",
+      "movie_id": "m113",
+      "subscription_date": "2025-08-15",
+      "expiry_date": "2026-08-02"
+    },
+    {
+      "_id": "s083",
+      "user_id": "u27",
+      "movie_id": "m14",
+      "subscription_date": "2025-05-11",
+      "expiry_date": "2025-11-30"
+    },
+    {
+      "_id": "s084",
+      "user_id": "u28",
+      "movie_id": "m16",
+      "subscription_date": "2025-08-13",
+      "expiry_date": "2026-06-24"
+    },
+    {
+      "_id": "s085",
+      "user_id": "u29",
+      "movie_id": "m200",
+      "subscription_date": "2025-11-22",
+      "expiry_date": "2026-07-25"
+    },
+    {
+      "_id": "s086",
+      "user_id": "u29",
+      "movie_id": "m29",
+      "subscription_date": "2025-11-22",
+      "expiry_date": "2026-10-17"
+    },
+    {
+      "_id": "s087",
+      "user_id": "u29",
+      "movie_id": "m158",
+      "subscription_date": "2025-11-22",
+      "expiry_date": "2026-10-19"
+    },
+    {
+      "_id": "s088",
+      "user_id": "u30",
+      "movie_id": "m180",
+      "subscription_date": "2025-03-02",
+      "expiry_date": "2025-11-23"
+    },
+    {
+      "_id": "s089",
+      "user_id": "u30",
+      "movie_id": "m42",
+      "subscription_date": "2025-03-02",
+      "expiry_date": "2026-01-30"
+    },
+    {
+      "_id": "s090",
+      "user_id": "u31",
+      "movie_id": "m163",
+      "subscription_date": "2025-05-18",
+      "expiry_date": "2026-05-02"
+    },
+    {
+      "_id": "s091",
+      "user_id": "u31",
+      "movie_id": "m195",
+      "subscription_date": "2025-05-18",
+      "expiry_date": "2026-04-30"
+    },
+    {
+      "_id": "s092",
+      "user_id": "u31",
+      "movie_id": "m124",
+      "subscription_date": "2025-05-18",
+      "expiry_date": "2026-01-05"
+    },
+    {
+      "_id": "s093",
+      "user_id": "u31",
+      "movie_id": "m186",
+      "subscription_date": "2025-05-18",
+      "expiry_date": "2025-11-14"
+    },
+    {
+      "_id": "s094",
+      "user_id": "u31",
+      "movie_id": "m174",
+      "subscription_date": "2025-05-18",
+      "expiry_date": "2026-01-02"
+    },
+    {
+      "_id": "s095",
+      "user_id": "u32",
+      "movie_id": "m85",
+      "subscription_date": "2025-12-20",
+      "expiry_date": "2026-12-05"
+    },
+    {
+      "_id": "s096",
+      "user_id": "u32",
+      "movie_id": "m182",
+      "subscription_date": "2025-12-20",
+      "expiry_date": "2026-07-25"
+    },
+    {
+      "_id": "s097",
+      "user_id": "u32",
+      "movie_id": "m197",
+      "subscription_date": "2025-12-20",
+      "expiry_date": "2026-11-15"
+    },
+    {
+      "_id": "s098",
+      "user_id": "u32",
+      "movie_id": "m149",
+      "subscription_date": "2025-12-20",
+      "expiry_date": "2026-07-04"
+    },
+    {
+      "_id": "s099",
+      "user_id": "u33",
+      "movie_id": "m129",
+      "subscription_date": "2025-05-18",
+      "expiry_date": "2025-11-24"
+    },
+    {
+      "_id": "s100",
+      "user_id": "u34",
+      "movie_id": "m8",
+      "subscription_date": "2025-02-03",
+      "expiry_date": "2025-09-21"
+    }
+  ]
