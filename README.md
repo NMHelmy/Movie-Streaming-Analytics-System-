@@ -5,8 +5,6 @@ A **Movie Streaming Analytics System** built with Python, Tkinter, and MongoDB.
 <br>Admins can manage users, movies, and subscriptions.
 <br>Simple GUI using python and connected to MongoDB.
 
----
-
 ## Features
 
 - **User Authentication**: Login as an Admin or User.
@@ -19,7 +17,6 @@ A **Movie Streaming Analytics System** built with Python, Tkinter, and MongoDB.
   - Add, edit, or delete users.
   - Manage movies and subscriptions.
 
----
 ## Prerequisites
 
 Before running the application, ensure you have the following installed:
@@ -35,7 +32,7 @@ Install the required libraries using:
 pip install pymongo
 ```
 
----
+
 
 ## Set Up
 ### 1. Clone the Repository
@@ -96,4 +93,4 @@ python main.py
 ### Main Window (Admin)
 ![WhatsApp Image 2024-12-30 at 11 04 00 PM](https://github.com/user-attachments/assets/0096b73a-d104-4537-8523-9e6191eba296)
 
----
+
